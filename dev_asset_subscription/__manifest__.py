@@ -16,7 +16,7 @@
     'author': "sapex.miguel@gmail.com",
     'category': "DEV",
     'version': '15.0.0.1',
-    'depends': ['account_asset', 'sale_subscription', 'stock'],
+    'depends': ['account_asset', 'sale_subscription', 'stock', 'product'],
     'data': [
         'views/account_asset_views.xml',
     ],
